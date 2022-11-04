@@ -84,7 +84,7 @@ footer{width: 100vw; height: 204px;}
 
 /* content1 */
 .con_wrap1{
-    width: 970px;
+    width: 980px;
     display: flex;
     justify-content: space-between;
 }
